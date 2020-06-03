@@ -1,0 +1,2 @@
+Escrevendo num arquivo usando a classe FileWriter que é um OutputStreamWriter, e um Writer.
+Agora na segunda linha
